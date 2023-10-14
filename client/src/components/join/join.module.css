@@ -1,0 +1,16 @@
+.join-container {
+  background-color: #282a36; /* Fundo Dracula */
+  color: #f8f8f2; /* Texto Dracula */
+  width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  -webkit-box-shadow: 5px 5px 17px 1px rgba(0, 0, 0, 0.3);
+  box-shadow: 5px 5px 17px 1px rgba(0, 0, 0, 0.3);
+}
+.join-container input {
+  color: #f8f8f2; /* Texto Dracula */
+}
